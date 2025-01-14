@@ -1,5 +1,7 @@
 # Market-analysis-project
 
+
+
 Project Background
 Vendora is a well-established online retail company known for offering a wide range of products through its e-commerce platform. Despite launching several new online marketing campaigns, the company has recently faced significant challenges, including declining customer engagement and lower conversion rates. Additionally, increased marketing expenses have not translated into the expected return on investment. Understanding customer feedback has also become essential for improving engagement and driving sales.
 
