@@ -14,13 +14,8 @@ Analysing how customers interact with marketing content across various channels 
 - Customer Feedback Analysis:
 Performing sentiment analysis on customer reviews and social media comments to better understand customer satisfaction and areas needing improvement.
 
-An interactive Power BI dashboard showcasing key findings can be accessed [here].
+An interactive Power BI dashboard showcasing key findings can be accessed [https://github.com/ZaidAlmayali/Market-analysis-project/blob/main/Market%20analysis%20Projectdashboard%20pics.pdf].
 
-SQL queries used for data inspection and quality checks are available [here].
-
-SQL queries for data cleaning and dashboard preparation can be found [here].
-
-Additional SQL queries addressing business-specific questions are provided [here].
 
 # Data Structure & Initial Checks
 
